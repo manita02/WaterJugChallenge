@@ -68,6 +68,7 @@ The algorithmic approach used in the application is based on the manipulation of
 - When executing this functionality, the user will then be able to see a table where the results will be shown and if there was a solution according to the values ​​that were shown they entered previously.
 
 ## Used technology
+I decided to use the following technologies because they offer a powerful and versatile combination for web development. ASP.NET and C# provide robust and secure functionality, while HTML and CSS allow you to create an attractive visual structure and design. Bootstrap streamlines the process by offering predefined components and styles for a modern, responsive user interface. Together, these technologies allow you to create scalable, secure and visually attractive web applications:
 - ASP.NET
 - C#
 - HTML
